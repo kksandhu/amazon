@@ -1,1 +1,5 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="oled_color" id="28" x="2" y="248">
+    <field name="OBJECT">GREEN</field>
+  </block>
+</xml>
