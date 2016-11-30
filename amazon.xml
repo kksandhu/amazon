@@ -1,13 +1,13 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="led_select" id="37" inline="true" x="204" y="161">
-    <field name="ACTION">ON</field>
+    <field name="ACTION">FLASH</field>
     <value name="LED">
       <block type="math_number" id="44">
-        <field name="NUM">500</field>
+        <field name="NUM">1</field>
       </block>
     </value>
     <next>
-      <block type="oled_color" id="53">
+      <block type="oled_color" id="76">
         <field name="OBJECT">GREEN</field>
       </block>
     </next>
